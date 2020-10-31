@@ -27,6 +27,9 @@
 <img align="left" alt="linux" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" />
 <img align="left" alt="Kali linux" width="26px" src="https://i.ibb.co/3Yk2Wsd/icon-removebg-preview.png" />
 
+<br />
+<br />
+
 ### Connect with me:
 
 [<img align="left" alt="wasfyelbaz | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
