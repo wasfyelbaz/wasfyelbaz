@@ -28,7 +28,6 @@
 <img align="left" alt="Kali linux" width="26px" src="https://i.ibb.co/3Yk2Wsd/icon-removebg-preview.png" />
 
 <br />
-<br />
 
 ### Connect with me:
 
@@ -37,17 +36,19 @@
 [<img align="left" alt="wasfyelbaz | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+<br />
 
 <details>
   <summary>:zap: TryHackMe Profile</summary>
-  <img align="left" alt="TryHackMe Profile" src="https://tryhackme-badges.s3.amazonaws.com/WEx90.png">
+  [TryHackMe Profile](https://tryhackme.com/p/WEx90)
 </details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="wasfyelbaz's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="wasfyelbaz's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=wasfyelbaz&show_icons=true&hide_border=true" />
 </details>
 
 [facebook]: https://facebook.com/wasfyelbaz
 [twitter]: https://twitter.com/wasfyelbazz
 [instagram]: https://instagram.com/was.fy
+[THM]: https://tryhackme.com/p/WEx90
