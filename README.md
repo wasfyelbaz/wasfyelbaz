@@ -40,9 +40,12 @@
 
 <details>
   <summary>:zap: TryHackMe Profile</summary>
-  [TryHackMe Profile](https://tryhackme.com/p/WEx90)
+  https://tryhackme.com/p/WEx90
 </details>
-
+<details>
+  <summary>:zap: HackerRank Profile</summary>
+  https://www.hackerrank.com/wasfylbaz
+</details>
 <details>
   <summary>:zap: GitHub Stats</summary>
   <img align="left" alt="wasfyelbaz's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=wasfyelbaz&show_icons=true&hide_border=true" />
@@ -51,4 +54,3 @@
 [facebook]: https://facebook.com/wasfyelbaz
 [twitter]: https://twitter.com/wasfyelbazz
 [instagram]: https://instagram.com/was.fy
-[THM]: https://tryhackme.com/p/WEx90
