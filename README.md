@@ -36,7 +36,7 @@
 
 [<img align="left" alt="wasfyelbaz | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="wasfyelbaz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="wasfyelbaz | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][twitter]
+[<img align="left" alt="wasfyelbaz | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 <br />
@@ -56,3 +56,4 @@
 
 [facebook]: https://facebook.com/wasfyelbaz
 [twitter]: https://twitter.com/wasfyelbazz
+[linkedin]: https://www.linkedin.com/in/wasfyelbaz/
