@@ -1,4 +1,4 @@
-
+### Hi there, I'm Wasfy Elbaz - aka "SyncV" 👋
 [![Twitter Follow](https://img.shields.io/twitter/follow/wasfyelbazz?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 ## Cybersecurity enthusiast.
@@ -53,4 +53,6 @@
   <img align="left" alt="wasfyelbaz's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=wasfyelbaz&show_icons=true&hide_border=true" />
 </details>
 
-
+[facebook]: https://facebook.com/wasfyelbaz
+[twitter]: https://twitter.com/wasfyelbazz
+[linkedin]: https://www.linkedin.com/in/wasfyelbaz/
