@@ -6,7 +6,7 @@
 - 🔭 I am a Cybersecurity student with lots of passion.
 - 🌱 Python is my favourite.
 - 👯 I’m looking to collaborate with content creators.
-- 🥅 2021 Goals: Contribute to Open Source projects.
+- 🥅 2022 Goals: Contribute to Open Source cybersecurity projects.
 - ⚡ Feel free to contact me.
 
 ### Languages (read / write):
@@ -53,5 +53,5 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wasfyelbaz&layout=compact&theme=radical)](https://github.com/ahmedheltaher2002?tab=repositories).
 
 [facebook]: https://facebook.com/wasfyelbaz
-[twitter]: https://twitter.com/wasfyelbazz
+[twitter]: https://twitter.com/elbazwasfy
 [linkedin]: https://www.linkedin.com/in/wasfyelbaz/
