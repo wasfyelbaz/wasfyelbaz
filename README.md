@@ -49,8 +49,9 @@
   https://www.hackerrank.com/wasfyelbaz
 </details>
 
-![wasfyelbaz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wasfyelbaz&hide=["issues"]&show_icons=true&theme=radical).
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wasfyelbaz&layout=compact&theme=radical)](https://github.com/ahmedheltaher2002?tab=repositories).
+![wasfyelbaz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wasfyelbaz&hide=["issues"]&show_icons=true&theme=onedark).
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wasfyelbaz&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 [facebook]: https://facebook.com/wasfyelbaz
 [twitter]: https://twitter.com/elbazwasfy
